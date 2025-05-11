@@ -29,7 +29,7 @@ This guide outlines how to deploy and run the Pokémon Data Fetcher application 
         kubectl get pods
         ```
 
-    * The pod name will likely be something like `pokemon-app-xxxxx-yyyyy`.  Let's assume it's `pokemon-scanner-pod` for this example.
+    * The pod name is `pokemon-scanner-pod` for this example.
 
     * Execute the Python script within the running pod, passing the Pokémon name as an argument:
 
