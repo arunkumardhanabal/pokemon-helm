@@ -12,7 +12,7 @@ This guide outlines how to deploy and run the Pokémon Data Fetcher application 
 1.  **Clone the repository:**
 
     ```bash
-    git clone (https://github.com/arunkumardhanabal/pokemon-helm.git)
+    git clone https://github.com/arunkumardhanabal/pokemon-helm.git
     ```
 
 2.  **Install the Helm chart:**
